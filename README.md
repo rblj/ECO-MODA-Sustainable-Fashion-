@@ -7,7 +7,7 @@
 
 <br /><br />
 
-<strong>Developed by <em>dev!lee</em></strong>
+<strong>Developed by <em>dev!lee</em></strong> | <strong>Optimized by <em>Google AI Studio</em></strong>
 
 </div>
 
